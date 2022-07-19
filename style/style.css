@@ -60,3 +60,12 @@ body {
 }
 
 /* banner style end */
+
+/* partner section start */
+.partner {
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* partner section end */
